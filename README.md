@@ -1,9 +1,9 @@
 <h1 align="center">
-✨🚀 <span style="color:#00FFAA;">NaufraBot V3</span> 🤖💚
+✨🚀 <span style="color:#00FFAA;">☬ˢUʟᴛʀᴀ Hᴀᴛꜱᴜɴᴇ ᴍɪᴋᴜ☬</span> 🤖💜
 </h1>
 
 <p align="center">
-  <img src="https://i.postimg.cc/vH5SHVW5/20260316-151443.jpg" width="300" alt="NaufraBot V2" />
+  <img src="https://i.postimg.cc/76MV8N9H/IMG-20260409-WA0019.png" width="300" alt="NaufraBot V2" />
 </p>
 
 
